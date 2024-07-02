@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-	background: linear-gradient(rgba(1, 0, 1, 0.2), rgba(111, 0, 110, 0.2)), url("pexels-catiamatos-1072179.jpg");
+	background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("/bg.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -57,4 +57,3 @@ body {
 		transform: translate3d(4px, 0, 0);
 	}
 }
-
